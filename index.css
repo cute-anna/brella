@@ -1,0 +1,23 @@
+.benefits-secondWord {
+  width: 1000px;
+  height: 500px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.benefits-secondWord__element {
+  margin: 0 10px;
+}
+
+.customizable-benefits {
+  width: 100%;
+  height: 100%;
+  background-color: grey;
+}
+
+.brella-plan {
+  width: 100%;
+  height: 100%;
+  background-color: green;
+}
